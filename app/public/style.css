@@ -17,7 +17,6 @@ html {
 }
 
 .content {
-  /* background: brown; */
   height: calc(100vh - 100px);
   cursor : url('./resources-master/cursor/Crosshair black.cur'), auto;
   box-shadow: inset 1px 1px 10px #000000;
