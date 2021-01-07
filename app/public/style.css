@@ -24,10 +24,6 @@ html {
   border-radius: 5px;
 }
 
-#canvas {
-  /* height: 100%;
-    width: 100%; */
-}
 .toolbox {
   display: flex;
   height: 80%;
